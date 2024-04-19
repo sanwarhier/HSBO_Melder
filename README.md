@@ -6,7 +6,7 @@ Die Datei `map.html` kann einfach als Datei im Browser geöffnet werden.
 Oder, falls Visual Studio Code verwendet wird, mit der Live Server Extension (Rechtsklick auf die Datei -> Open with Live Server). Das hat den Vorteil, dass die Seite sich bei Änderungen im Skript automatisch aktualisiert.
 
 Um das Aussehen auf Mobilgeräten zu simulieren, kann in den meisten Browsern unter Rechtsklick -> Untersuchen eine Gerätesymbolleiste / Geräteemulation geöffnet werden
-![](/HSBO_Melder/2024-04-19%2016_08_55-Window.png)
+![](2024-04-19%2016_08_55-Window.png)
 
 
 ## Server
